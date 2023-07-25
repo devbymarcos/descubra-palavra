@@ -216,7 +216,7 @@ th {
 .alert .messageView.error {
   background: #e74c3c;
 }
-@media (max-width: 400px) {
+@media (max-width: 435px) {
   .status {
     font-size: 4rem;
   }
