@@ -62,6 +62,7 @@ export default function playGame() {
     });
     viewTip.disabled = true;
   }
+
   function wordKeys() {
     const place = document.querySelector("#keyboard");
     const char = [
@@ -88,6 +89,7 @@ export default function playGame() {
       "V",
       "W",
       "X",
+      "Y",
       "Z",
     ];
 

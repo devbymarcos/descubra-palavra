@@ -31,7 +31,7 @@ th {
 }
 
 .status {
-  font-size: 10rem;
+  font-size: 4rem;
 }
 
 .box-game {
@@ -102,7 +102,7 @@ th {
   letter-spacing: 6px;
 }
 #inLetter {
-  font-size: 30px;
+  font-size: 30spx;
   text-transform: uppercase;
 }
 
@@ -129,7 +129,7 @@ th {
 
 .keyboard {
   width: 100%;
-  max-width: 300px;
+  max-width: 330px;
   display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;
@@ -137,12 +137,13 @@ th {
   margin: 0 auto 2rem auto;
 }
 .keyboard p {
-  width: 50px;
+  width: 4rem;
   text-align: center;
-  font-size: 30px;
+  font-size: 40px;
   border: 1px solid #4d4d4d;
   cursor: pointer;
   margin-bottom: 0;
+  padding: 0.5rem 1rem;
 }
 
 .keyboard p:active {
