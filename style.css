@@ -108,7 +108,7 @@ th {
 
 .fa-laugh-beam {
   position: relative;
-  animation: jump 1s cubic-bezier(0.7, 0.3, 0.93, 0.67) infinite;
+  animation: jump 1s infinite;
 }
 
 @keyframes jump {
